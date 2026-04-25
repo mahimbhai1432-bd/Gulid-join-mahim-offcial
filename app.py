@@ -17,10 +17,10 @@ app = Flask(__name__)
 OB = "OB53"
 
 API_INFO = {
-    "developer": "mafu",
-    "telegram": "@mahfuj_offcial_143",
-    "api_name": "FF GUILD JOIN/LEAVE API",
-    "version": OB
+    "developer": "MAHIM OFFCIAL",
+    "telegram": "@mahim_offcial_143",
+    "api_name": "https://gulid-join-mahim-offcial.vercel.app",
+    "version": OB53
 }
 
 # Crypto keys (same as original)
